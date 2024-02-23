@@ -4,7 +4,7 @@
 
 #### 💻 Atualmente estou buscando me desenvolver profissionalmente e reforçar as minhas bases, aqui você encontrará testes e conteúdos voltados a estudos.
 
-## Estastísticas
+## Estatísticas
 ![JsB GitHub stats](https://github-readme-stats.vercel.app/api?username=XGinnX&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=XGinnX&layout=compact&langs_count=8&theme=onedark)](https://github.com/XGinnX/github-readme-stats)
 
