@@ -8,7 +8,7 @@
 ![JsB GitHub stats](https://github-readme-stats.vercel.app/api?username=XGinnX&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=XGinnX&layout=compact&langs_count=8&theme=onedark)](https://github.com/XGinnX/github-readme-stats)
 
-## Tecnologias que eu utilizo no meu dia a dia
+## Tecnologias que utilizo no meu dia a dia
 ### Back-End
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 [![.net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]()
